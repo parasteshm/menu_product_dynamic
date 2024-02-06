@@ -1,0 +1,18 @@
+{
+    "menu":[
+        {"id":1,"text":"home","dropdown":[]},
+        {"id":2,"text":"about","dropdown":[
+            {"id":1,"text":"about-1"},
+            {"id":2,"text":"about-2"},
+            {"id":3,"text":"about-3"},
+            {"id":4,"text":"about-4"}
+        ]},
+        {"id":3,"text":"gallery","dropdown":[]},
+        {"id":4,"text":"video","dropdown":[]}
+    ],
+    "product":[
+        {"id":1 , "title":"hi" , "text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam temporibus necessitatibus facilis id ratione provident libero maxime dolorem nostrum doloremque, perferendis rerum voluptatum totam atque iusto numquam mollitia harum assumenda.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam temporibus necessitatibus facilis id ratione provident libero maxime dolorem nostrum doloremque, perferendis rerum voluptatum totam atque iusto numquam mollitia harum assumenda.","imge":"https://cdn1.elecspo.com/uploads/13/2019/03/fortnite.jpg","link":"home"},
+        {"id":1 , "title":"hi" , "text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam temporibus necessitatibus facilis id ratione provident libero maxime dolorem nostrum doloremque, perferendis rerum voluptatum totam atque iusto numquam mollitia harum assumenda.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam temporibus necessitatibus facilis id ratione provident libero maxime dolorem nostrum doloremque, perferendis rerum voluptatum totam atque iusto numquam mollitia harum assumenda.","imge":"https://cdn1.elecspo.com/uploads/13/2019/03/fortnite.jpg","link":"home"},
+        {"id":1 , "title":"hi" , "text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam temporibus necessitatibus facilis id ratione provident libero maxime dolorem nostrum doloremque, perferendis rerum voluptatum totam atque iusto numquam mollitia harum assumenda.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam temporibus necessitatibus facilis id ratione provident libero maxime dolorem nostrum doloremque, perferendis rerum voluptatum totam atque iusto numquam mollitia harum assumenda.","imge":"https://cdn1.elecspo.com/uploads/13/2019/03/fortnite.jpg","link":"home"}
+    ]
+}
